@@ -1,4 +1,4 @@
-# UNI6CTF — "Records Department" Forensics Challenge Writeup
+# Quiet Ledger — Forensics Challenge Writeup
 
 **Category:** Forensics
 **Challenge files:** `candidate_passwords.txt`, `UNI6CTF_Quarterly_Report.pdf`
